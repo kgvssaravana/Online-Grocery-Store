@@ -1,2 +1,2 @@
 # Online Grocery Store
-created responsive UI 
+Created Responsive UI 
